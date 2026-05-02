@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Services/">
+    <Project Path="src/Services/Bookstore.NotificationService/Bookstore.NotificationService.csproj" />
+    <Project Path="src/Services/Bookstore.UserService/Bookstore.UserService.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/Bookstore.Contracts/Bookstore.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bookstore.NotificationService.Tests/Bookstore.NotificationService.Tests.csproj" />
+    <Project Path="tests/Bookstore.UserService.Tests/Bookstore.UserService.Tests.csproj" />
+  </Folder>
+</Solution>
