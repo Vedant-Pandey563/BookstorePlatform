@@ -1,0 +1,8 @@
+dapr run --app-id userservice --app-port 5118 --dapr-http-port 3500 --resources-path ../../../../components dotnet run
+
+
+dapr run --app-id addressservice --app-port 5218 --dapr-http-port 3501 --resources-path ../../../../components dotnet run
+
+
+
+dapr run --app-id notificationservice --app-port 5300 --dapr-http-port 3502 --resources-path ../../../../components dotnet run
