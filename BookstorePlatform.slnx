@@ -19,6 +19,12 @@
     <Project Path="src/Services/UserService/UserService.Domain/UserService.Domain.csproj" />
     <Project Path="src/Services/UserService/UserService.Infrastructure/UserService.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/src/Services/BookService/">
+    <Project Path="src/Services/BookService/BookService.API/BookService.API.csproj" />
+    <Project Path="src/Services/BookService/BookService.Application/BookService.Application.csproj" />
+    <Project Path="src/Services/BookService/BookService.Domain/BookService.Domain.csproj" />
+    <Project Path="src/Services/BookService/BookService.Infrastructure/BookService.Infrastructure.csproj" />
+  </Folder>
   <Folder Name="/src/Shared/">
     <Project Path="src/Shared/Bookstore.Contracts/Bookstore.Contracts.csproj" />
   </Folder>
