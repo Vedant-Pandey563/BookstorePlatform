@@ -1,0 +1,2 @@
+CREATE DATABASE BookstoreOrdersDb;
+GO
